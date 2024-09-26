@@ -1,17 +1,9 @@
 body {
-    background-color:beige;
+    background-color: white;
     text-align: center;
-}
-h1 {
-    text-align: center;
+    color: black
 }
 
-.contenedor { 
-    justify-content: center;
-    display: flex;
-    gap: 50px;
-    font-size:30px
-}
 
 .cards {
     display: flex;
