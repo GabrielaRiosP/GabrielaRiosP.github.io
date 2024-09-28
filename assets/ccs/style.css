@@ -10,10 +10,17 @@ p {
     padding-right: 30px;
     margin: 30px;
 }
-
+.section>.row {
+    text-align: center;
+    justify-content: center;
+    display: flex
+}
 .row { 
     display: flex;
     text-align: left;
+}
+.section {
+    text-align: center;
 }
 
 .portafolio {
