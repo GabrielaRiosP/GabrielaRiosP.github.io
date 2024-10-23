@@ -15,12 +15,18 @@ p {
     justify-content: center;
     display: flex
 }
+
+
 .row { 
     display: flex;
     text-align: left;
+    align-items: justify;
+    margin-top: 10px;
 }
+
 .section {
     text-align: center;
+    padding: 10px;
 }
 
 .portafolio {
