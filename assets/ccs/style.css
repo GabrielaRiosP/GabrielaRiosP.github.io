@@ -6,6 +6,15 @@ body {
     text-align: center;
     color: black
 }
+
+.about {
+    padding: auto;
+    margin-top: 15px;
+}
+.about > p{
+    text-align: justify;
+
+}
 p {
     text-align: center;
     font-size: large;
@@ -17,7 +26,7 @@ p {
     text-align: center;
     justify-content: center;
     display: flex;
-    font-size: larger;
+    font-size: larger ;
     
 }
 
