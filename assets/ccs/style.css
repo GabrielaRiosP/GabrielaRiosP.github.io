@@ -43,10 +43,6 @@ p {
     padding: 10px;
 }
 
-.portafolio {
-    text-align: center;
-}
-
 footer{
     text-align: center;
 }
@@ -58,4 +54,9 @@ footer p {
     font-size: 20px;
     padding-bottom: 10px;
     color: black;
+}
+
+.portafolio > img {
+    width: 50px;
+    height: 50px;
 }
